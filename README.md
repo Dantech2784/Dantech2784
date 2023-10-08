@@ -1,5 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dante Villalobos
-========================================================================================================================================Cybersecurity Student---------------------I'm a long-time Warehouse Worker currently doing Inventory Control for local government, and I'm looking to switch careers into the IT field, eventually landing a position within Cybersecurity.* 🌍  I'm based in Long Beach, California* ✉️  You can contact me at [d.villalobos27@outlook.com](mailto:d.villalobos27@outlook.com)* 🧠  I'm learning Python and Bash Scripting* 🤝  I'm open to collaborating on Anything that would help me advance from a novice level
+========================================================================================================================================
+
+Cybersecurity Student
+---------------------
+
+I'm a long-time Warehouse Worker currently doing Inventory Control for local government, and I'm looking to switch careers into the IT field, eventually landing a position within Cybersecurity.
+
+* 🌍  I'm based in Long Beach, California
+* ✉️  You can contact me at [d.villalobos27@outlook.com](mailto:d.villalobos27@outlook.com)
+* 🧠  I'm learning Python and Bash Scripting
+* 🤝  I'm open to collaborating on Anything that would help me advance from a novice level
 
 ### Skills
 
