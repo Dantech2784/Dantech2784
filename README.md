@@ -7,7 +7,7 @@ Cybersecurity Student
 I'm a long-time Warehouse Worker currently doing Inventory Control for local government, and I'm looking to switch careers into the IT field, eventually landing a position within Cybersecurity.
 
 *   🌍  I'm based in Long Beach, California
-*   ✉️  You can contact me at [d.villalobos27@outlook.com](mailto:d.villalobos27@outlook.com)
+*   ✉️  You can contact me at [dvillalobos27@proton.me](mailto:d.villalobos27@outlook.com)
 *   🧠  I'm learning Python and Bash Scripting
 *   🤝  I'm open to collaborating on Anything that would help me advance from a novice level
 
